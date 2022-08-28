@@ -1,0 +1,63 @@
+p{
+    color: red;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.mobilenet{
+    letter-spacing: 5px;
+}
+.gogglelens{
+    letter-spacing: 5px;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+.white1{
+    color: whitesmoke;
+}
+span{
+     letter-spacing: 5px ;
+     color: red;
+}
+b{
+    color: purple;
+}
+.first,.second{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    line-height: 5;
+}
+.tiar1,.tiar2,.tiar3,.tiar4,.tiar5,.tiar6,.tiar7,.tiar8,.tiar9,.tiar10,.tiar11{
+    margin-top: 20px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 15px;
+    box-shadow: 1px 1px 25px grey;
+    width: 99%;
+    margin-bottom: 20px;
+}
+.gogglelens{
+    color: black;
+}
+h4{
+    color: whitesmoke;
+    font: bold;
+}
+.bottom{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5 span{
+    font-weight: bold;
+}
+.b23{
+font-weight: bold;
+font-size: 20px;
+width: 50%;
+}
